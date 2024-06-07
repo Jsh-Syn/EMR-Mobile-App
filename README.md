@@ -9,6 +9,7 @@ Welcome to the repository for the EMR (Electronic Medical Record) Mobile Applica
 - Secure Data Handling: Ensure patient data is securely stored and transmitted.
 - User Authentication: Implement user login and role-based access control.
 - Cross-Platform: Compatible with both iOS and Android devices.
+- Video Conferencing: Call and talk with the patients for virtual consultations.
 
 ## Screenshot Preview:
 ![1ReadMeVisualIntro](https://github.com/Jsh-Syn/EMR-Mobile-App/assets/157363386/9e8e8dcb-0070-4a35-aa7d-9783ce62d655)
