@@ -1,7 +1,7 @@
 # EMR Mobile App
 Welcome to the repository for the EMR (Electronic Medical Record) Mobile Application. This project is developed using Dart and the Flutter framework to deliver a seamless, cross-platform mobile solution for managing patient records efficiently.
 
-# EMR Mobile App Features:
+# App Features:
 - Patient Management: Easily add, edit, and delete patient records.
 - Appointment Scheduling (To be added in the future updates): Schedule and track patient appointments.
 - HPED: Add HPED and custom insights.
